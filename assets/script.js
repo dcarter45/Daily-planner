@@ -1,4 +1,4 @@
-// created date & time timestamp
+// created date & time timestampp
 var datetime = null,
         date = null;
 
